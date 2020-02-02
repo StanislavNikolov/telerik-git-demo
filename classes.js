@@ -1,3 +1,6 @@
 class azsunmgoshocoronavirus {};
-class gei {};
+class gei {
+	// aaaaa
+	// bbbbb
+};
 // asdljas djkaslkdj
