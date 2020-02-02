@@ -1,2 +1,2 @@
 console.log('az rabotqqqq!!!!');
-console.log('promqna');
+console.log('lkad;lakd;lak;lk;lksad;l');
