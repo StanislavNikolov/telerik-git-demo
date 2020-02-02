@@ -1,1 +1,2 @@
+class azsunmgoshocoronavirus {};
 class gei {};
